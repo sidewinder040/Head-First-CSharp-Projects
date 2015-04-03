@@ -1,0 +1,9 @@
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Debug\Typing Game.exe.config
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Debug\Typing Game.csprojResolveAssemblyReference.cache
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Debug\Typing_Game.Form1.resources
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Debug\Typing_Game.Properties.Resources.resources
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Debug\Typing Game.csproj.GenerateResource.Cache
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Debug\Typing Game.exe
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Debug\Typing Game.pdb
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Debug\Typing Game.exe
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Debug\Typing Game.pdb

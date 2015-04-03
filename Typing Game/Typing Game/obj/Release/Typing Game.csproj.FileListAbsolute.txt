@@ -1,0 +1,13 @@
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Release\Typing Game.exe.config
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Release\Typing Game.exe
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Release\Typing Game.pdb
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing_Game.Form1.resources
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing_Game.Properties.Resources.resources
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing Game.csproj.GenerateResource.Cache
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing Game.exe
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing Game.pdb
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Release\Typing Game.exe.manifest
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\bin\Release\Typing Game.application
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing Game.exe.manifest
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing Game.application
+C:\Users\win7-Main\OneDrive\Documents\Visual Studio 2013\Head First - C#\Typing Game\Typing Game\obj\Release\Typing Game.csprojResolveAssemblyReference.cache
